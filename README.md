@@ -2,8 +2,8 @@
 
 ## 💇🏻‍♂️ About the project
 
-This project is an web application of time management.
-It helps developers or any person who wants to apply the Pomodoro Technique to their daily basis.
+This project is an web application of time management.<br />
+It helps developers or any person who wants to apply the Pomodoro Technique to their daily basis.<br />
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.  
 
 ## 💻 Screens
@@ -37,7 +37,7 @@ $ git clone https://github.com/vitor-martinss/MoveIt
 **Follow the steps below for Web Version**
 
 ```js
-  # Go to api folder
+  # Go to src folder
   cd _src 
 
   # Install the dependencies
