@@ -8,10 +8,10 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 
 ## 💻 Screens
 
-<img alt="Mockup" src="/readme.assets/home.png">
-<img alt="Mockup" src="/readme.assets/home-start.png">
-<img alt="Mockup" src="/readme.assets/home-finish.png">
-<img alt="Mockup" src="/readme.assets/share.png">
+<img alt="Mockup" src="/readme.assets/home.jpg">
+<img alt="Mockup" src="/readme.assets/home-start.jpg">
+<img alt="Mockup" src="/readme.assets/home-finish.jpg">
+<img alt="Mockup" src="/readme.assets/share.jpg">
 
 ## 🚀 Technologies
 
