@@ -10,6 +10,7 @@ _src/coverage
 _src/.next/
 _src/out/
 
+
 # production
 _src/build
 
@@ -29,4 +30,4 @@ yarn-error.log*
 .env.production.local
 
 # vercel
-.vercel
+_src/.vercel
